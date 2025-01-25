@@ -79,7 +79,7 @@ An interactive whiteboard web application that allows users to draw, create shap
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akshay12345poonia/Mind-Board.git
+   git clone https://github.com/akshay12345poonia/Mind_Board_App.git
 
    ```
 
@@ -93,5 +93,4 @@ cd Mind-Board
 
 ## Project Links:
 
-1.Repository Link: https://github.com/jagannathking/Mind-Board
- 
+1.Repository Link: https://github.com/akshay12345poonia/Mind_Board_App.git
